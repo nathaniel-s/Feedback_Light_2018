@@ -1,0 +1,10 @@
+
+easy_install install pip
+
+pip install request
+pip install colorpy
+
+need to touch the button on the light at least once
+run it and see the error in dbg.log
+then go touch button then run again
+

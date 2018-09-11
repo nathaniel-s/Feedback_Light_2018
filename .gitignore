@@ -1,0 +1,4 @@
+*.pyc
+*.conf
+*.log
+svn_dir_tmp
