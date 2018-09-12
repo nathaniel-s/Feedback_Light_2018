@@ -1,6 +1,6 @@
 # The magical wonderful feedback python program
 
-# conf file is new_light_runner_201608.conf
+# conf file is light_runner_201808.conf
 
 # tony_new.py is a test program
 
@@ -8,14 +8,14 @@ This program sets the lights in the office to different colors.
 
 ## Current crontab
 ```
-* * * * * /Users/agcc/feedback-lights/run_single.sh
+* * * * * /Users/cbtadmin/feedback-lights/run_single.sh
 ```
 
 ## Current key needed from hockey puck in the closet
 8xPwCsiwzi-XgaDO25h8rhkkpNBd53G1FXc5P0zK
 
 ## Current program being run with crontab
-/Users/agcc/feedback-lights/new_light_runner_201608.py
+/Users/cbtadmin/feedback-lights/light_runner_201808.py
 
 # color conversion
 https://developers.meethue.com/documentation/color-conversions-rgb-xy
