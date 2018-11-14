@@ -12,10 +12,15 @@ This program sets the lights in the office to different colors.
 ```
 
 ## Current key needed from hockey puck in the closet
-8xPwCsiwzi-XgaDO25h8rhkkpNBd53G1FXc5P0zK
+oXmi2RcXNVirBCfnAzzok14K94uNVtu2RebnzL1X
 
 ## Current program being run with crontab
 /Users/cbtadmin/feedback-lights/light_runner_201808.py
+
+#Home of the light probram
+192.168.192.232
+
+#To delete a user enter a Get on http://192.168.192.135/debug/clip.html put api/<username>/config, find the user you want to delete in the whitelist -> name category of the response and then go to /api/<username>/config/whitelist/<username2>  where username2 is the name you want to delete and hit the Delete Action on the interface.
 
 # color conversion
 https://developers.meethue.com/documentation/color-conversions-rgb-xy
